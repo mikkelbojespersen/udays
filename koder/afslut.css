@@ -1,0 +1,15 @@
+* {margin: 0; padding: 0;}
+
+html, body {min-height: 100%;}
+
+body {
+
+background-color: #84b4bd; /* For browsers that do not support gradients */
+background-image: linear-gradient(#84b4bd, white); /* Standard syntax (must be last) */
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+
+
+
+
